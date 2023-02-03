@@ -1,6 +1,8 @@
 
 <h1>How to share screen using Microsoft Teams to remote into computer</h1>
 
+<h2>Objective</h2>
+
 <h2> Technologies Used</h2>
 
 - Microsoft Teams 
