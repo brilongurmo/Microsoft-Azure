@@ -17,8 +17,9 @@
   3. Choose the Share Content button which displays a square box with an arrow pointing up.
   <img src="<img src="https://i.imgur.com/0kl0ZM6.jpg" alt="osTicket logo"/>
   4. Another menu will appear at the bottom of the screen which displays the screen contents including the following:
+<img src="https://i.imgur.com/Y9fnrQ3.jpg" alt="osTicket logo"/>
 
- Screen lets you show everything on your screen.
+ Desktop lets you show everything on your screen.
 
  PowerPoint Live lets you share a PowerPoint presentation.
 
@@ -27,6 +28,8 @@
   5.After a screen content has been selected. A menu of control options will appear on the top of the screen which includes the following:
 
 Give Control – to allow another user to control the screen. This option will use to remote into a computer.
+
+<img src="https://i.imgur.com/Fy1GQWK.jpg" alt="osTicket logo"/>
 
 Stop Presenting – to stop sharing the screen.
 
