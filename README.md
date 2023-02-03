@@ -3,7 +3,7 @@
 
 <h2>Objective</h2>
 
-<h2> Technologies Used</h2>
+<h2> Technology Used</h2>
 
 - Microsoft Teams 
 
