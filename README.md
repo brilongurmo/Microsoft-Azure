@@ -15,11 +15,16 @@
 <h2>Configuration Steps</h2>
 
   1. Sign into Microsoft Teams. Join a meeting or send an invite to another Team user.
+
   2. A control menu will appear on top of the screen.
+  
   3. Choose the Share Content button which displays a square box with an arrow pointing up.
-  <img src="<img src="https://i.imgur.com/0kl0ZM6.jpg" alt="osTicket logo"/>
+       
+     <img src="<img src="https://i.imgur.com/0kl0ZM6.jpg" alt="osTicket logo"/>
+  
   4. Another menu will appear at the bottom of the screen which displays the screen contents including the following:
-<img src="https://i.imgur.com/Y9fnrQ3.jpg" alt="osTicket logo"/>
+
+  <img src="https://i.imgur.com/Y9fnrQ3.jpg" alt="osTicket logo"/>
 
  Desktop lets you show everything on your screen.
 
