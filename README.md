@@ -35,5 +35,5 @@ Give Control – to allow another user to control the screen. This option will u
 
 Stop Presenting – to stop sharing the screen.
 
-<h2>Tech tips</h2>
+
 
