@@ -1,5 +1,5 @@
 
-<h1>How to share screen using Microsoft Teams to remote into computer</h1>
+<h1>How to share screen using Microsoft Teams to remote into a computer</h1>
 
 <h2>Objective: Microsoft Teams is a business commnunication platform which allows people to commnunicate via chat and video conference or share content with each other.</h2>
 
