@@ -3,6 +3,8 @@
 
 <h2>Objective: Microsoft Teams is a business commnunication platform which allows people to commnunicate via chat and video conference or share content with each other.</h2>
 
+<img src="https://i.imgur.com/SaZg0ZD.jpg" alt="osTicket logo"/>
+
 <h2> Technology Used</h2>
 
 - Microsoft Teams 
