@@ -22,6 +22,7 @@
   <img src="https://i.imgur.com/qb5xgiF.jpg" alt="osTicket logo"/>
 
   2. A control menu will appear on top of the screen.
+   <img src="https://i.imgur.com/GB64BNv.jpg" alt="osTicket logo"/>
   
   3.Choose the Share Content button which displays a square box with an arrow pointing up.  
   
