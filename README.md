@@ -16,6 +16,8 @@
 <h2>Configuration Steps</h2>
 
   1. Sign into Microsoft Teams. Join a meeting or send an invite to another Teams user.
+ 
+  <img src="https://i.imgur.com/qb5xgiF.jpg" alt="osTicket logo"/>
 
   2. A control menu will appear on top of the screen.
   
