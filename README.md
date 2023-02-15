@@ -15,7 +15,7 @@
 
 <h2>Configuration Steps</h2>
 
-  1. Sign into Microsoft Teams. Join a meeting or send an invite to another Team user.
+  1. Sign into Microsoft Teams. Join a meeting or send an invite to another Teams user.
 
   2. A control menu will appear on top of the screen.
   
